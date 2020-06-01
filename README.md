@@ -22,7 +22,7 @@ get_winner method of hand will return the player object on random basis.
 To print the name of the player.
 
 
-* In addition to that I have created some methods : 
+In addition to that I have created some methods : 
 
 - Method to add/remove player in Game class.
 - Method to change the dealer
